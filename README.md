@@ -47,5 +47,5 @@ Rounding out the last three tests are functions dealing with powers. They can be
 ```bash
 $ py.test test_square.py
 $ py.test test_power.py
-$ py.test test_sqrt.py
+$ py.test tests_sqrt.py
 ```
